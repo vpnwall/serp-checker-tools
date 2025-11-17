@@ -1,4 +1,4 @@
-# Best SERP Checker & CTR Tools | Top 5 Rated & Reviewed
+# Best SERP Checker & CTR Tools | Top 8 Rated & Reviewed
 
 Yo, so you want to preview how your snippets look in SERPs and track CTR performance? Smart move. Let me break down the tools that'll help you optimize without the guesswork. For actual SEO performance to improve page rank on websites, then look into [CTR manipulation tools](https://gist.github.com/vpnwall/2ac90e27ec48efba191500c1d27c6606) which help improve click through rate but dont use bots, Id recommend a done for you service as a hands off approach
 
