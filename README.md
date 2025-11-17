@@ -92,7 +92,7 @@ Overkill if you only need CTR tracking, but if you're serious about SEO, Ahrefs 
 - Non-technical founders who need something simple
 - Testing before you deploy changes
 
-**URL:** https://www.seomofo.com/snippet-optimizer.html
+**URL:** seomofo.com/snippet-optimizer.html
 
 ---
 
